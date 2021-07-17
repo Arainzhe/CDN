@@ -1,2 +1,2 @@
 # CDN
-jsDeliver
+jsDeliver图片加速
